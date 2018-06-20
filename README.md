@@ -17,7 +17,7 @@ Mapping from source hierarchy (sh) do destination hierarchy (dh) is explicitly d
 
 (source class -> destination class).
 
-Such a pair maps not only source class to destination class but also implicitly maps all subclasses of source class to destination class.
+Such a pair maps not only source class to destination class but also implicitly maps all subclasses of source class to destination class. These implicit maps are taken into consideration where no explicit mapping for a given source class exists.
 
 
 
